@@ -13,7 +13,7 @@
 
 ### 测试过程
 
-* 浏览器URL输入 ip:port ，访问服务器
+* 浏览器URL输入`ip:port`访问服务器
 * 用压力测试工具webbench
 
 
@@ -25,7 +25,7 @@
 | webserver |  10000   | 176  |
 
 * 测试结果
-
-  <img src="G:\workspace\myServer\myServer\README.assets\image-20210619213035656.png" alt="image-20210619213035656" style="zoom:80%;" />
-
-<img src="G:\workspace\myServer\myServer\README.assets\image-20210619213552170.png" alt="image-20210619213552170" style="zoom:80%;" />
+  
+  ![image](https://github.com/developer-young/MyHTTPServer/blob/main/assets/test1.png)
+  
+  ![image](https://github.com/developer-young/MyHTTPServer/blob/main/assets/test2.png)
